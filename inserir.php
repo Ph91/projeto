@@ -31,11 +31,11 @@
 		<br>
 		<div>
 	        <label for="nome">Nome:</label>
-	        <input type="text" id="nome" />
+	        <input type="text" name="nome" id="nome" />
     	</div>
 		<div>
 	        <label for="nome">Sobrenome:</label>
-	        <input type="text" id="sobrenome" />
+	        <input type="text" name="sobrenome" id="sobrenome" />
     	</div>
     	<div class="button">
         	<button type="submit">Enviar</button>
